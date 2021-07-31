@@ -1,0 +1,161 @@
+/* E-SCHOOL */
+section {
+	height: 600px;
+}
+p{
+	color: #6C6B6B;
+
+}
+
+.container{
+	margin-bottom: 100px;
+	
+}
+/*navbar*/
+.logo{
+	height: 50px;
+	width: 150px;
+}
+.banner-top{
+	background: #F0FFF0;
+}
+.btn{
+	height: 40px;
+	width: 80px;
+	border-radius: 15px;
+
+}
+.get-started-button{
+	height: 40px;
+	width: 120px;
+	border-radius: 15px;
+	background-color: green;
+}
+/*top-banner*/
+.top-banner{
+	background: #F0FFF0;
+	padding: 40px;
+	padding-right: 20px;
+	height: 500px;
+}
+
+.green-bg{
+	background: #F0FFF0;
+}
+.green-highlight{
+	color: green;
+}
+.red-highlight{
+	color: red;
+}
+
+/*categories*/
+
+.categories{
+	margin-top: 100px;
+	margin-bottom: none;
+}
+.categories h3{
+	color:#413960;
+}
+.categories h5{
+	color: #585859;
+}
+.categories img{
+	width: 100px;
+	
+} 
+.cat1, .cat2, .cat3, .cat4{
+	
+	padding:10px 20px;
+	border-radius: 10px;
+	background: #F8FFFB;
+	width: 270px;
+	height: 270px;
+	border: none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px lightgrey;
+}
+
+.cat1:hover{
+	background: lightgrey;
+}
+.cat2:hover{
+	background: lightgrey;
+}
+.cat3:hover{
+	background: lightgrey;
+}
+.cat4:hover{
+	background: lightgrey;
+}
+/*card*/
+
+.card{
+	border: none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px lightgrey;
+} 
+.cources h3{
+	text-align: center;
+	color: #413960;
+
+}
+.cources h5{
+	color: #585859;
+
+}
+.cources{
+	margin-top: 150px;
+	background-color: ;
+}
+.card-pic{
+	margin-top: 100px;
+}
+.card-footer{
+	background-color: white;
+	border-top: none;
+}
+.icon{
+	height: 20px;
+	width: 20px;
+}
+/*testimonial*/
+.testimonial h3{
+text-align: center;
+}
+.testimonial{
+	margin-top: 100px;
+
+}
+.testimonial-part{
+	margin-top: 100px;
+}
+.man-pic{
+	width: 200px;
+	height: 200px;
+}
+
+/*black*/
+.black{
+	background-color: #282531;
+	color: white;
+	height: 400px;
+
+}
+.black p{
+	color: white;
+}
+.black-part{
+	padding-top: 100px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+footer{
+	text-align: center;
+	color: white;
+	background-color: #282531;
+}
